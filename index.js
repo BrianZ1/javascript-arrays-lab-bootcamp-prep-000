@@ -16,5 +16,5 @@ function destructivelyRemoveFirstKitten(){
 }
 
 function appendKitten(name){
-  
+  return window.kittens.
 }
