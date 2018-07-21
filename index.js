@@ -3,7 +3,7 @@ function destructivelyAppendKitten(name){
   window.kittens.push(name);
 }
 
-function destuctivelyPrependKitten(name){
+function destructivelyPrependKitten(name){
   window.kittens.unshift(name);
 }
 
