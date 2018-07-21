@@ -12,9 +12,9 @@ function destructivelyRemoveLastKitten(){
 }
 
 function destructivelyRemoveFirstKitten(){
-  window.kittens.shift()
+  window.kittens.shift();
 }
 
 function appendKitten(name){
-  return window.kittens.
+  return window.kittens.concat([name]);
 }
